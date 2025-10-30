@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class RandomNumberGenerator {
     public static void main(String[] args) {
         // Create an instance of Random
