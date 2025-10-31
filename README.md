@@ -1,4 +1,4 @@
 # RandomNumberGenerator
-Jenkins course example
+Jenkins course example test
 
 By Talles Pais
